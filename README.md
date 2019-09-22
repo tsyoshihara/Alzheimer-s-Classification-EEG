@@ -6,4 +6,4 @@ Note:
 The models can take a substantial amount of time to run, so I've included figures for those just interested in the results.
   
 Results: 
-The classification is not nearing the standards for clinical implementation, however, using wavelet feature extraction instead of the fast fourier transform might allow us to get a better results as suggested in the 2018 paper by Fiscon et al.
+The classification is not nearing the standards for clinical implementation, however, using wavelet feature extraction instead of the fast fourier transform might allow us to acheive better sensitivity and specificity as suggested in "Combining EEG signal processing with supervised methods for Alzheimer’s patients classification" (Fiscon et al., 2018)
